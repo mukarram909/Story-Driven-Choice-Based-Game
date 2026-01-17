@@ -19,3 +19,7 @@ By implementing a narrative system based on Scriptable Objects, I gained practic
 The branching dialogue structure functioned as a runtime decision graph, strengthening my understanding of state machines, graph-based data representations, and event-driven systems—concepts that are central to game engines, simulations, and interactive media technologies.
 Equally important was the focus on tool usability and interdisciplinary workflows. Designing a system that empowers non-technical contributors reflects real-world game production environments and aligns with H-BRS’s emphasis on collaborative development across technical and creative disciplines.
 Overall, this project demonstrates my ability to translate narrative design requirements into robust technical systems, balancing player experience with engineering rigor. It reflects my readiness for graduate-level study in Game Technologies by showcasing applied system design, interactive storytelling, and the development of flexible tools for content-driven games.
+
+
+_**Drive link for gameplay video and APK**_
+https://drive.google.com/drive/folders/1Tv1Cky8d37uMXOzUNePS5E01VgDJA_k8?dmr=1&ec=wgc-drive-globalnav-goto
